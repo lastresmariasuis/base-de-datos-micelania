@@ -58,7 +58,7 @@ INSERT INTO Ciudades VALUES (1168,"San Luis");
 
 
 
-INSERT INTO Productos (id_Productos, Nombre, Cantidad_disponible, Precio_bruto, Precio_neto, Categoria) VALUES (001,"Borrador de nata",152,200,400,754);
+INSERT INTO Productos (id_Producto, Nombre, Cantidad_disponible, Precio_bruto, Precio_neto, Categoria) VALUES (001,"Borrador de nata",152,200,400,754);
 INSERT INTO Productos VALUES (002,"Tijeras de papel",116,800,1000,754);
 INSERT INTO Productos VALUES (003,"Grapadora pequeña",443,3000,3200,754);
 INSERT INTO Productos VALUES (004,"Grapadora grande",115,7000,8000,754);
@@ -165,7 +165,7 @@ INSERT INTO Empresas values(599, "Albaricoque", "3200000051", "Cra_26_N_26", 116
 
 
 
-INSERT INTO Proveedores (id_Proveedores, Empresa) values (101, 549);
+INSERT INTO Proveedores (id_Proveedor, Empresa) values (101, 549);
 INSERT INTO Proveedores values(102, 550);
 INSERT INTO Proveedores values(103,  551);
 INSERT INTO Proveedores values(104,  552);
@@ -273,7 +273,7 @@ INSERT INTO Empleados VALUES (462,"Gómez Ortiz Juana María",3138762733,1025000
 
 
 
-INSERT INTO Compras (id_Compras, Fecha_compra, Precio_tl) VALUES (307,"2024-03-15",643300);
+INSERT INTO Compras (id_Compra, Fecha_compra, Precio_tl) VALUES (307,"2024-03-15",643300);
 INSERT INTO Compras VALUES (NULL,"2023-11-12",481600);
 INSERT INTO Compras VALUES (NULL,"2023-03-15",36200);
 INSERT INTO Compras VALUES (NULL,"2023-11-07",2062000);
@@ -327,7 +327,7 @@ INSERT INTO Compras VALUES (NULL,"2024-01-08",10062600);
 
 
 
-INSERT INTO Ventas (id_Ventas, Precio_total, Empleado) VALUES (205, 401000,423);
+INSERT INTO Ventas (id_Venta, Precio_total, Empleado) VALUES (205, 401000,423);
 INSERT INTO Ventas VALUES (NULL,276000,422);
 INSERT INTO Ventas VALUES (NULL,755000,416);
 INSERT INTO Ventas VALUES (NULL,1424200,430);
@@ -381,7 +381,7 @@ INSERT INTO Ventas VALUES (NULL,459800,416);
 
 
 
-INSERT INTO Compras_Productos (id_Compras,id_Productos,Cantidad) VALUES (307,001,2);
+INSERT INTO Compras_Productos (id_Compra,id_Producto,Cantidad) VALUES (307,001,2);
 
 INSERT INTO Compras_Productos VALUES (307, 002, 4);
 INSERT INTO Compras_Productos VALUES (307, 022, 7);
@@ -701,7 +701,7 @@ INSERT INTO Compras_Productos VALUES (357, 025, 59);
 
 
 
-INSERT INTO Proveedores_Productos (id_Proveedores,id_Productos)VALUES(101,004);
+INSERT INTO Proveedores_Productos (id_Proveedore,id_Producto)VALUES(101,004);
 INSERT INTO Proveedores_Productos Values (101, 027);
 
 INSERT INTO Proveedores_Productos Values (102, 037);
@@ -917,7 +917,7 @@ INSERT INTO Proveedores_Productos Values (151, 049);
 
 
 
-INSERT INTO Ventas_Productos (id_ventas,id_productos, Cantidad) VALUES (205,029,4);
+INSERT INTO Ventas_Productos (id_venta,id_producto, Cantidad) VALUES (205,029,4);
 INSERT INTO Ventas_Productos VALUES (205,019,5);
 
 INSERT INTO Ventas_Productos VALUES (206,029,4);
