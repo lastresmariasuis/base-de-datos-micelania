@@ -1,10 +1,4 @@
 
-show databases;
-
-show tables; 
-
-describe ventas;
-
 create database Variedades_JD;
 use Variedades_JD;
 
