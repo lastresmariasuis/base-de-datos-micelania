@@ -1,0 +1,363 @@
+COMPRAS-PRODUCTOS
+
+INSERT INTO Compras_Productos (idcompra,idproducto,cantidad) VALUES (307,001,2);
+
+INSERT INTO Compras_Productos VALUES (307, 002, 4);
+INSERT INTO Compras_Productos VALUES (307, 022, 7);
+INSERT INTO Compras_Productos VALUES (307, 033, 6);
+
+INSERT INTO Compras_Productos VALUES (308, 041, 3);
+INSERT INTO Compras_Productos VALUES (308, 007, 4);
+
+
+INSERT INTO Compras_Productos VALUES (309, 021, 3);
+INSERT INTO Compras_Productos VALUES (309, 002, 4);
+INSERT INTO Compras_Productos VALUES (309, 005, 1);
+INSERT INTO Compras_Productos VALUES (309, 016, 7);
+
+INSERT INTO Compras_Productos VALUES (310, 013, 1);
+INSERT INTO Compras_Productos VALUES (310, 040, 6);
+INSERT INTO Compras_Productos VALUES (310, 025, 2);
+INSERT INTO Compras_Productos VALUES (310, 011, 9);
+
+INSERT INTO Compras_Productos VALUES (311, 019, 6);
+INSERT INTO Compras_Productos VALUES (311, 016, 3);
+INSERT INTO Compras_Productos VALUES (311, 043, 2);
+INSERT INTO Compras_Productos VALUES (311, 010, 5);
+
+INSERT INTO Compras_Productos VALUES (312, 050, 2);
+INSERT INTO Compras_Productos VALUES (312, 047, 6);
+INSERT INTO Compras_Productos VALUES (312, 034, 7);
+INSERT INTO Compras_Productos VALUES (312, 017, 1);
+INSERT INTO Compras_Productos VALUES (312, 040, 3);
+
+INSERT INTO Compras_Productos VALUES (313, 025, 3);
+INSERT INTO Compras_Productos VALUES (313, 024, 7);
+INSERT INTO Compras_Productos VALUES (313, 034, 6);
+INSERT INTO Compras_Productos VALUES (313, 050, 4);
+INSERT INTO Compras_Productos VALUES (313, 038, 2);
+
+INSERT INTO Compras_Productos VALUES (314, 002, 3);
+INSERT INTO Compras_Productos VALUES (314, 042, 5);
+INSERT INTO Compras_Productos VALUES (314, 025, 2);
+INSERT INTO Compras_Productos VALUES (314, 012, 9);
+
+INSERT INTO Compras_Productos VALUES (315, 011, 1);
+INSERT INTO Compras_Productos VALUES (315, 013, 5);
+INSERT INTO Compras_Productos VALUES (315, 017, 10);
+INSERT INTO Compras_Productos VALUES (315, 030, 9);
+INSERT INTO Compras_Productos VALUES (315, 013, 6);
+INSERT INTO Compras_Productos VALUES (315, 016, 4);
+INSERT INTO Compras_Productos VALUES (315, 047, 1);
+
+INSERT INTO Compras_Productos VALUES (316, 030, 4);
+INSERT INTO Compras_Productos VALUES (316, 007, 6);
+INSERT INTO Compras_Productos VALUES (316, 014, 7);
+INSERT INTO Compras_Productos VALUES (316, 034, 3);
+INSERT INTO Compras_Productos VALUES (316, 022, 5);
+
+INSERT INTO Compras_Productos VALUES (317, 013, 63);
+INSERT INTO Compras_Productos VALUES (317, 027, 59);
+INSERT INTO Compras_Productos VALUES (317, 023, 68);
+INSERT INTO Compras_Productos VALUES (317, 028, 88);
+INSERT INTO Compras_Productos VALUES (317, 014, 92);
+INSERT INTO Compras_Productos VALUES (317, 048, 60);
+);
+INSERT INTO Compras_Productos VALUES (317, 010, 74);
+INSERT INTO Compras_Productos VALUES (317, 003, 93);
+
+INSERT INTO Compras_Productos VALUES (318, 023, 87);
+INSERT INTO Compras_Productos VALUES (318, 006, 91);
+INSERT INTO Compras_Productos VALUES (318, 040, 54);
+INSERT INTO Compras_Productos VALUES (318, 042, 74);
+INSERT INTO Compras_Productos VALUES (318, 022, 81);
+INSERT INTO Compras_Productos VALUES (318, 009, 67);
+INSERT INTO Compras_Productos VALUES (318, 037, 77);
+INSERT INTO Compras_Productos VALUES (318, 012, 97);
+INSERT INTO Compras_Productos VALUES (318, 020, 62);
+INSERT INTO Compras_Productos VALUES (318, 047, 99);
+
+INSERT INTO Compras_Productos VALUES (319, 015, 92);
+INSERT INTO Compras_Productos VALUES (319, 035, 77);
+INSERT INTO Compras_Productos VALUES (319, 047, 94);
+
+INSERT INTO Compras_Productos VALUES (320, 044, 60);
+INSERT INTO Compras_Productos VALUES (320, 038, 61);
+INSERT INTO Compras_Productos VALUES (320, 030, 52);
+INSERT INTO Compras_Productos VALUES (320, 032, 75);
+INSERT INTO Compras_Productos VALUES (320, 024, 50);
+INSERT INTO Compras_Productos VALUES (320, 006, 72);
+INSERT INTO Compras_Productos VALUES (320, 020, 64);
+
+INSERT INTO Compras_Productos VALUES (321, 041, 95);
+INSERT INTO Compras_Productos VALUES (321, 020, 52);
+INSERT INTO Compras_Productos VALUES (321, 036, 98);
+INSERT INTO Compras_Productos VALUES (321, 012, 69);
+
+INSERT INTO Compras_Productos VALUES (322, 039, 85);
+
+INSERT INTO Compras_Productos VALUES (323, 048, 92);
+INSERT INTO Compras_Productos VALUES (323, 029, 77);
+INSERT INTO Compras_Productos VALUES (323, 011, 94);
+INSERT INTO Compras_Productos VALUES (323, 028, 50);
+INSERT INTO Compras_Productos VALUES (323, 020, 72);
+INSERT INTO Compras_Productos VALUES (323, 018, 64);
+INSERT INTO Compras_Productos VALUES (323, 046, 58);
+
+INSERT INTO Compras_Productos VALUES (324, 043, 68);
+INSERT INTO Compras_Productos VALUES (324, 017, 76);
+INSERT INTO Compras_Productos VALUES (324, 047, 87);
+INSERT INTO Compras_Productos VALUES (324, 046, 78);
+INSERT INTO Compras_Productos VALUES (324, 020, 84);
+
+INSERT INTO Compras_Productos VALUES (325, 036, 93);
+INSERT INTO Compras_Productos VALUES (325, 007, 65);
+INSERT INTO Compras_Productos VALUES (325, 030, 79);
+INSERT INTO Compras_Productos VALUES (325, 042, 95);
+INSERT INTO Compras_Productos VALUES (325, 010, 74);
+INSERT INTO Compras_Productos VALUES (325, 047, 83);
+INSERT INTO Compras_Productos VALUES (325, 050, 69);
+INSERT INTO Compras_Productos VALUES (325, 001, 65);
+INSERT INTO Compras_Productos VALUES (325, 018, 79);
+
+INSERT INTO Compras_Productos VALUES (326, 012, 95);
+INSERT INTO Compras_Productos VALUES (326, 031, 74);
+INSERT INTO Compras_Productos VALUES (326, 046, 83);
+INSERT INTO Compras_Productos VALUES (326, 044, 69);
+INSERT INTO Compras_Productos VALUES (326, 029, 65);
+
+INSERT INTO Compras_Productos VALUES (327, 035, 90);
+INSERT INTO Compras_Productos VALUES (327, 046, 52);
+INSERT INTO Compras_Productos VALUES (327, 009, 71);
+INSERT INTO Compras_Productos VALUES (327, 034, 59);
+INSERT INTO Compras_Productos VALUES (327, 017, 55);
+INSERT INTO Compras_Productos VALUES (327, 015, 36);
+INSERT INTO Compras_Productos VALUES (327, 007, 90);
+INSERT INTO Compras_Productos VALUES (327, 001, 38);
+INSERT INTO Compras_Productos VALUES (327, 009, 58);
+INSERT INTO Compras_Productos VALUES (327, 033, 98);
+INSERT INTO Compras_Productos VALUES (327, 044, 79);
+INSERT INTO Compras_Productos VALUES (327, 021, 44);
+INSERT INTO Compras_Productos VALUES (327, 002, 73);
+INSERT INTO Compras_Productos VALUES (327, 027, 35);
+
+INSERT INTO Compras_Productos VALUES (328, 010, 47);
+INSERT INTO Compras_Productos VALUES (328, 014, 74);
+INSERT INTO Compras_Productos VALUES (328, 009, 79);
+INSERT INTO Compras_Productos VALUES (328, 018, 44);
+INSERT INTO Compras_Productos VALUES (328, 020, 73);
+INSERT INTO Compras_Productos VALUES (328, 016, 35);
+
+INSERT INTO Compras_Productos VALUES (329, 043, 47);
+INSERT INTO Compras_Productos VALUES (329, 033, 74);
+
+INSERT INTO Compras_Productos VALUES (330, 009, 60);
+INSERT INTO Compras_Productos VALUES (330, 014, 44);
+INSERT INTO Compras_Productos VALUES (330, 031, 97);
+INSERT INTO Compras_Productos VALUES (330, 019, 31);
+INSERT INTO Compras_Productos VALUES (330, 034, 35);
+INSERT INTO Compras_Productos VALUES (330, 049, 90);
+INSERT INTO Compras_Productos VALUES (330, 001, 39);
+
+INSERT INTO Compras_Productos VALUES (331, 017, 91);
+INSERT INTO Compras_Productos VALUES (331, 026, 87);
+INSERT INTO Compras_Productos VALUES (331, 036, 61);
+INSERT INTO Compras_Productos VALUES (331, 002, 40);
+INSERT INTO Compras_Productos VALUES (331, 003, 99);
+INSERT INTO Compras_Productos VALUES (331, 032, 73);
+INSERT INTO Compras_Productos VALUES (331, 007, 94);
+INSERT INTO Compras_Productos VALUES (331, 004, 51);
+INSERT INTO Compras_Productos VALUES (331, 014, 76);
+INSERT INTO Compras_Productos VALUES (331, 019, 51);
+INSERT INTO Compras_Productos VALUES (331, 021, 80);
+
+INSERT INTO Compras_Productos VALUES (332, 013, 41);
+INSERT INTO Compras_Productos VALUES (332, 034, 36);
+INSERT INTO Compras_Productos VALUES (332, 005, 34);
+
+INSERT INTO Compras_Productos VALUES (333, 049, 76);
+INSERT INTO Compras_Productos VALUES (333, 003, 94);
+INSERT INTO Compras_Productos VALUES (333, 010, 60);
+INSERT INTO Compras_Productos VALUES (333, 018, 32);
+INSERT INTO Compras_Productos VALUES (333, 008, 66);
+INSERT INTO Compras_Productos VALUES (333, 009, 94);
+INSERT INTO Compras_Productos VALUES (333, 039, 86);
+INSERT INTO Compras_Productos VALUES (333, 022, 85);
+
+INSERT INTO Compras_Productos VALUES (334, 005, 86);
+INSERT INTO Compras_Productos VALUES (334, 035, 50);
+INSERT INTO Compras_Productos VALUES (334, 020, 56);
+INSERT INTO Compras_Productos VALUES (334, 037, 73);
+INSERT INTO Compras_Productos VALUES (334, 017, 74);
+
+INSERT INTO Compras_Productos VALUES (335, 009, 49);
+INSERT INTO Compras_Productos VALUES (335, 026, 98);
+INSERT INTO Compras_Productos VALUES (335, 031, 48);
+INSERT INTO Compras_Productos VALUES (335, 047, 72);
+INSERT INTO Compras_Productos VALUES (335, 022, 73);
+INSERT INTO Compras_Productos VALUES (335, 003, 79);
+
+INSERT INTO Compras_Productos VALUES (336, 004, 91);
+INSERT INTO Compras_Productos VALUES (336, 007, 49);
+INSERT INTO Compras_Productos VALUES (336, 039, 92);
+INSERT INTO Compras_Productos VALUES (336, 011, 46);
+INSERT INTO Compras_Productos VALUES (336, 013, 98);
+INSERT INTO Compras_Productos VALUES (336, 023, 58);
+INSERT INTO Compras_Productos VALUES (336, 044, 93);
+INSERT INTO Compras_Productos VALUES (336, 041, 60);
+INSERT INTO Compras_Productos VALUES (336, 034, 67);
+INSERT INTO Compras_Productos VALUES (336, 002, 33);
+
+INSERT INTO Compras_Productos VALUES (337, 001, 35);
+INSERT INTO Compras_Productos VALUES (337, 002, 52);
+INSERT INTO Compras_Productos VALUES (337, 021, 65);
+INSERT INTO Compras_Productos VALUES (337, 036, 47);
+
+INSERT INTO Compras_Productos VALUES (338, 045, 66);
+INSERT INTO Compras_Productos VALUES (338, 046, 96);
+INSERT INTO Compras_Productos VALUES (338, 037, 37);
+INSERT INTO Compras_Productos VALUES (338, 043, 48);
+INSERT INTO Compras_Productos VALUES (338, 013, 88);
+INSERT INTO Compras_Productos VALUES (338, 029, 63);
+
+INSERT INTO Compras_Productos VALUES (339, 046, 50);
+INSERT INTO Compras_Productos VALUES (339, 014, 80);
+
+INSERT INTO Compras_Productos VALUES (340, 022, 40);
+INSERT INTO Compras_Productos VALUES (340, 001, 83);
+INSERT INTO Compras_Productos VALUES (340, 003, 69);
+INSERT INTO Compras_Productos VALUES (340, 018, 95);
+INSERT INTO Compras_Productos VALUES (340, 029, 81);
+INSERT INTO Compras_Productos VALUES (340, 041, 34);
+INSERT INTO Compras_Productos VALUES (340, 045, 61);
+INSERT INTO Compras_Productos VALUES (340, 023, 80);
+INSERT INTO Compras_Productos VALUES (340, 049, 55);
+INSERT INTO Compras_Productos VALUES (340, 050, 42);
+INSERT INTO Compras_Productos VALUES (340, 009, 49);
+INSERT INTO Compras_Productos VALUES (340, 007, 70);
+INSERT INTO Compras_Productos VALUES (340, 012, 77);
+INSERT INTO Compras_Productos VALUES (340, 017, 75);
+INSERT INTO Compras_Productos VALUES (340, 036, 44);
+INSERT INTO Compras_Productos VALUES (340, 032, 62);
+INSERT INTO Compras_Productos VALUES (340, 039, 56);
+INSERT INTO Compras_Productos VALUES (340, 040, 53);
+INSERT INTO Compras_Productos VALUES (340, 010, 59);
+INSERT INTO Compras_Productos VALUES (340, 009, 38);
+INSERT INTO Compras_Productos VALUES (340, 024, 86);
+
+INSERT INTO Compras_Productos VALUES (341, 005, 53);
+INSERT INTO Compras_Productos VALUES (341, 009, 59);
+INSERT INTO Compras_Productos VALUES (341, 043, 38);
+INSERT INTO Compras_Productos VALUES (341, 038, 86);
+
+INSERT INTO Compras_Productos VALUES (342, 013, 91);
+INSERT INTO Compras_Productos VALUES (342, 007, 71);
+INSERT INTO Compras_Productos VALUES (342, 030, 45);
+INSERT INTO Compras_Productos VALUES (342, 045, 39);
+INSERT INTO Compras_Productos VALUES (342, 035, 72);
+INSERT INTO Compras_Productos VALUES (342, 027, 99);
+
+INSERT INTO Compras_Productos VALUES (343, 049, 32);
+INSERT INTO Compras_Productos VALUES (343, 003, 76);
+INSERT INTO Compras_Productos VALUES (343, 022, 68);
+INSERT INTO Compras_Productos VALUES (343, 004, 74);
+INSERT INTO Compras_Productos VALUES (343, 001, 54);
+
+INSERT INTO Compras_Productos VALUES (344, 005, 51);
+INSERT INTO Compras_Productos VALUES (344, 032, 77);
+INSERT INTO Compras_Productos VALUES (344, 023, 67);
+
+INSERT INTO Compras_Productos VALUES (345, 034, 32);
+INSERT INTO Compras_Productos VALUES (345, 043, 49);
+INSERT INTO Compras_Productos VALUES (345, 021, 47);
+INSERT INTO Compras_Productos VALUES (345, 012, 82);
+INSERT INTO Compras_Productos VALUES (345, 019, 85);
+INSERT INTO Compras_Productos VALUES (345, 020, 39);
+INSERT INTO Compras_Productos VALUES (345, 030, 33);
+
+INSERT INTO Compras_Productos VALUES (346, 021, 68);
+INSERT INTO Compras_Productos VALUES (346, 012, 69);
+INSERT INTO Compras_Productos VALUES (346, 042, 42);
+INSERT INTO Compras_Productos VALUES (346, 024, 61);
+
+INSERT INTO Compras_Productos VALUES (347, 002, 71);
+INSERT INTO Compras_Productos VALUES (347, 005, 84);
+INSERT INTO Compras_Productos VALUES (347, 050, 98);
+INSERT INTO Compras_Productos VALUES (347, 020, 92);
+INSERT INTO Compras_Productos VALUES (347, 024, 89);
+INSERT INTO Compras_Productos VALUES (347, 042, 38);
+INSERT INTO Compras_Productos VALUES (347, 034, 78);
+
+INSERT INTO Compras_Productos VALUES (348, 021, 60);
+INSERT INTO Compras_Productos VALUES (348, 012, 94);
+INSERT INTO Compras_Productos VALUES (348, 007, 59);
+INSERT INTO Compras_Productos VALUES (348, 017, 76);
+INSERT INTO Compras_Productos VALUES (348, 006, 75);
+INSERT INTO Compras_Productos VALUES (348, 026, 56);
+INSERT INTO Compras_Productos VALUES (348, 015, 81);
+
+INSERT INTO Compras_Productos VALUES (349, 032, 72);
+INSERT INTO Compras_Productos VALUES (349, 023, 56);
+INSERT INTO Compras_Productos VALUES (349, 003, 81);
+INSERT INTO Compras_Productos VALUES (349, 030, 72);
+
+INSERT INTO Compras_Productos VALUES (350, 032, 83);
+INSERT INTO Compras_Productos VALUES (350, 041, 44);
+INSERT INTO Compras_Productos VALUES (350, 014, 66);
+INSERT INTO Compras_Productos VALUES (350, 032, 30);
+INSERT INTO Compras_Productos VALUES (350, 029, 74);
+INSERT INTO Compras_Productos VALUES (350, 049, 55);
+INSERT INTO Compras_Productos VALUES (350, 009, 62);
+
+INSERT INTO Compras_Productos VALUES (351, 008, 83);
+INSERT INTO Compras_Productos VALUES (351, 028, 44);
+
+INSERT INTO Compras_Productos VALUES (352, 033, 66);
+INSERT INTO Compras_Productos VALUES (352, 003, 30);
+INSERT INTO Compras_Productos VALUES (352, 019, 74);
+INSERT INTO Compras_Productos VALUES (352, 015, 55);
+INSERT INTO Compras_Productos VALUES (352, 020, 62);
+
+INSERT INTO Compras_Productos VALUES (353, 007, 70);
+INSERT INTO Compras_Productos VALUES (353, 037, 95);
+INSERT INTO Compras_Productos VALUES (353, 011, 36);
+INSERT INTO Compras_Productos VALUES (353, 016, 35);
+INSERT INTO Compras_Productos VALUES (353, 025, 37);
+INSERT INTO Compras_Productos VALUES (353, 050, 41);
+INSERT INTO Compras_Productos VALUES (353, 014, 86);
+INSERT INTO Compras_Productos VALUES (353, 026, 45);
+INSERT INTO Compras_Productos VALUES (353, 013, 93);
+INSERT INTO Compras_Productos VALUES (353, 019, 53);
+
+INSERT INTO Compras_Productos VALUES (354, 041, 88);
+
+INSERT INTO Compras_Productos VALUES (355, 047, 31);
+INSERT INTO Compras_Productos VALUES (355, 027, 96);
+INSERT INTO Compras_Productos VALUES (355, 012, 46);
+INSERT INTO Compras_Productos VALUES (355, 008, 32);
+INSERT INTO Compras_Productos VALUES (355, 028, 50);
+INSERT INTO Compras_Productos VALUES (355, 038, 48);
+INSERT INTO Compras_Productos VALUES (355, 019, 99);
+INSERT INTO Compras_Productos VALUES (355, 049, 91);
+
+INSERT INTO Compras_Productos VALUES (356, 032, 56);
+INSERT INTO Compras_Productos VALUES (356, 023, 79);
+INSERT INTO Compras_Productos VALUES (356, 011, 49);
+INSERT INTO Compras_Productos VALUES (356, 050, 66);
+
+INSERT INTO Compras_Productos VALUES (357, 010, 42);
+INSERT INTO Compras_Productos VALUES (357, 001, 64);
+INSERT INTO Compras_Productos VALUES (357, 050, 45);
+INSERT INTO Compras_Productos VALUES (357, 025, 59);
+INSERT INTO Compras_Productos VALUES (357, 049, 53);
+INSERT INTO Compras_Productos VALUES (357, 029, 82);
+INSERT INTO Compras_Productos VALUES (357, 003, 93);
+INSERT INTO Compras_Productos VALUES (357, 004, 80);
+INSERT INTO Compras_Productos VALUES (357, 034, 47);
+INSERT INTO Compras_Productos VALUES (357, 043, 70);
+INSERT INTO Compras_Productos VALUES (357, 013, 41);
+INSERT INTO Compras_Productos VALUES (357, 031, 51);
+INSERT INTO Compras_Productos VALUES (357, 028, 87);
+INSERT INTO Compras_Productos VALUES (357, 050, 36);
+INSERT INTO Compras_Productos VALUES (357, 029, 71);
+INSERT INTO Compras_Productos VALUES (357, 026, 89);
